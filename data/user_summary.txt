@@ -1,0 +1,6 @@
+- User is non-vegetarian, loves chicken and eggs, dislikes fish, likes green vegetables, plays badminton twice a week.
+- User is Indian, Bengali, and loves to learn
+- User is 30 years old
+- User likes chicken, eggs, green vegetables, Bengali flavours; dislikes fish; plays badminton twice a week; wants future summaries to include likes and dislikes.
+- User's name is Arijit
+- User wants random water reminders throughout the day

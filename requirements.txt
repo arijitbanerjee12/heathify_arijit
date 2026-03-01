@@ -1,0 +1,7 @@
+pyTelegramBotAPI>=4.20
+groq>=0.4
+python-dotenv>=1.0
+streamlit>=1.38
+plotly>=5.18
+schedule>=1.2
+matplotlib>=3.8
